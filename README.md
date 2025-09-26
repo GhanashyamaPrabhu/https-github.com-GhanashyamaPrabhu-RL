@@ -1,3 +1,1 @@
-Reinforcement Learning and optimal Control 
-this contains all the homework and Problems solved
-Also contains class Slides for reference 
+This repository contains my coursework, solved homework problems, and class slides for Reinforcement Learning (RL) and Optimal Control. It serves as both a study archive and a reference for future projects.
